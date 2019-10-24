@@ -1,0 +1,56 @@
+Watercraft: 
+Engine: Minn Kota Max 70
+Weight: 1860
+Seats: 12
+Hull: V - Hull
+Manufacturer: Sea Ark Boats
+
+Watercraft: 
+Engine: Yamaha 115 HP
+Weight: 5200
+Seats: 10
+Hull: Fiberglass
+Manufacturer: Sea Ark Boats
+
+Automobile: 
+Engine: V6
+Wheels: 4
+Weight: 4079
+Seats: 2
+Make: Toyota
+Model: Solara
+
+Automobile: 
+Engine: 3A90I3
+Wheels: 4
+Weight: 2072
+Seats: 5
+Make: Mirage
+Model: Mitsubishi
+
+Automobile: 
+Engine: V6
+Wheels: 4
+Weight: 4079
+Seats: 2
+Make: Honda
+Model: Accord
+
+Watercraft: 
+Engine: Yamaha 115 HP
+Weight: 5200
+Seats: 10
+Hull: Fiberglass
+Manufacturer: Sea Ark Boats
+
+Automobile: 
+Engine: 3A90I3
+Wheels: 4
+Weight: 2072
+Seats: 5
+Make: Mirage
+Model: Mitsubishi
+
+Vehicles created: 7
+Automobiles created :4
+Watercraft created :3
