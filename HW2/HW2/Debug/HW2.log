@@ -1,0 +1,3 @@
+﻿  PANTA_PAWAN_HW2.cpp
+c:\1430hws\hw2\hw2\panta_pawan_hw2.cpp(80): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW2.vcxproj -> C:\1430HWs\HW2\Debug\HW2.exe
